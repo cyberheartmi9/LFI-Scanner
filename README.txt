@@ -1,6 +1,6 @@
-LFI Scanner 
+<h1>LFI Scanner</h1?
 
-Platform Python 
+***Platform:*** ***Python***
 
 
 
